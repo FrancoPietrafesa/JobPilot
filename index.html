@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JobPilot — Postulaciones & CVs Personalizados</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar no-print">
+    <div class="brand">
+      <div class="logo">JP</div>
+      <div>
+        <h1>JobPilot Dashboard</h1>
+        <p class="subtitle">Franco Pietrafesa · QA, Tech Support, Cloud &amp; DevOps (LATAM / Argentina)</p>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <label class="btn btn-secondary" for="jsonFileInput">
+        📂 Cargar jobs.json del día
+      </label>
+      <input id="jsonFileInput" type="file" accept=".json,application/json" hidden />
+      <button id="resetDemoBtn" class="btn btn-ghost" title="Volver a datos de ejemplo">
+        Demo
+      </button>
+    </div>
+  </header>
+
+  <main class="container no-print">
+    <section class="stats-grid" id="statsGrid">
+      <div class="stat-card">
+        <span class="stat-label">Ofertas cargadas</span>
+        <strong class="stat-value" id="statTotal">0</strong>
+      </div>
+      <div class="stat-card">
+        <span class="stat-label">Pendientes</span>
+        <strong class="stat-value pending" id="statPending">0</strong>
+      </div>
+      <div class="stat-card">
+        <span class="stat-label">Enviadas</span>
+        <strong class="stat-value sent" id="statSent">0</strong>
+      </div>
+      <div class="stat-card">
+        <span class="stat-label">Fecha del reporte</span>
+        <strong class="stat-value date" id="statDate">—</strong>
+      </div>
+    </section>
+
+    <section class="filters-bar">
+      <div class="tabs" id="roleTabs">
+        <button class="tab active" data-role="ALL">Todas</button>
+        <button class="tab" data-role="QA">QA</button>
+        <button class="tab" data-role="Tech Support Specialist">Tech Support</button>
+        <button class="tab" data-role="Cloud">Cloud</button>
+        <button class="tab" data-role="DevOps">DevOps</button>
+      </div>
+      <div class="filter-right">
+        <select id="statusFilter" aria-label="Filtrar por estado">
+          <option value="ALL">Todos los estados</option>
+          <option value="pending">Pendientes</option>
+          <option value="sent">Enviadas</option>
+          <option value="discarded">Descartadas</option>
+        </select>
+        <input id="searchInput" type="search" placeholder="Buscar empresa, skill o título..." />
+      </div>
+    </section>
+
+    <section class="workspace">
+      <div class="job-list" id="jobList"></div>
+
+      <aside class="detail-panel" id="detailPanel">
+        <div class="empty-state">
+          <h2>Seleccioná una oferta</h2>
+          <p>Elegí una publicación de la lista para ver el mensaje personalizado, el link directo y el CV adaptado listo para guardar en PDF.</p>
+        </div>
+      </aside>
+    </section>
+  </main>
+
+  <!-- Printable CV container -->
+  <section id="printCvContainer" class="print-only"></section>
+
+  <div id="toast" class="toast no-print" role="status" aria-live="polite"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
