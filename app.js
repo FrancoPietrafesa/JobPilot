@@ -1,5 +1,7 @@
 const STORAGE_KEY_DATA = "jobpilot_dataset_v1";
 const STORAGE_KEY_STATUS = "jobpilot_statuses_v1";
+const STORAGE_KEY_RESEND = "jobpilot_resend_key_v1";
+const STORAGE_KEY_SENDER = "jobpilot_sender_email_v1";
 
 const DEMO_DATA = {
   generatedAt: "2026-11-15",
@@ -431,6 +433,8 @@ function renderDetail(filtered) {
     btn.textContent = "Enviando...";
 
     try {
+      const apiKey = localStorage.getItem(STORAGE_KEY_RESEND) || "";
+      const senderEmail = localStorage.getItem(STORAGE_KEY_SENDER) || "";
       const res = await fetch("/api/send-email", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -439,7 +443,9 @@ function renderDetail(filtered) {
           subject: `Postulación ${job.title} - Franco Pietrafesa`,
           message: job.outreachMessage,
           pdfBase64: pdf.base64,
-          filename: pdf.filename
+          filename: pdf.filename,
+          apiKey,
+          senderEmail
         })
       });
       const data = await res.json().catch(() => ({}));
@@ -517,6 +523,36 @@ document.getElementById("jsonFileInput").addEventListener("change", async (e) =>
   } catch (err) {
     showToast(`Error al leer JSON: ${err.message}`);
   }
+});
+
+document.getElementById("configKeyBtn").addEventListener("click", () => {
+  const currentKey = localStorage.getItem(STORAGE_KEY_RESEND) || "";
+  const newKey = prompt(
+    "Pegá tu API Key de Resend (se guarda solo en tu navegador):",
+    currentKey
+  );
+  if (newKey === null) return;
+
+  if (newKey.trim()) {
+    localStorage.setItem(STORAGE_KEY_RESEND, newKey.trim());
+  } else {
+    localStorage.removeItem(STORAGE_KEY_RESEND);
+  }
+
+  const currentSender = localStorage.getItem(STORAGE_KEY_SENDER) || "";
+  const newSender = prompt(
+    "Email remitente verificado en Resend (dejalo vacío para usar onboarding@resend.dev):",
+    currentSender
+  );
+  if (newSender !== null) {
+    if (newSender.trim()) {
+      localStorage.setItem(STORAGE_KEY_SENDER, newSender.trim());
+    } else {
+      localStorage.removeItem(STORAGE_KEY_SENDER);
+    }
+  }
+
+  showToast("Configuración de Resend guardada en el navegador");
 });
 
 document.getElementById("resetDemoBtn").addEventListener("click", () => {
