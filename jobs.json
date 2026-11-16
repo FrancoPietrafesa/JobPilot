@@ -1,0 +1,122 @@
+{
+  "generatedAt": "2026-11-15",
+  "candidate": {
+    "name": "Franco Pietrafesa",
+    "email": "francopietra01@gmail.com",
+    "phone": "+011 3669 2718",
+    "location": "Buenos Aires, Capital Federal, Argentina",
+    "linkedin": "https://www.linkedin.com/in/franco-pietrafesa/"
+  },
+  "jobs": [
+    {
+      "id": "getonbrd-zaelot-qa-2026-11-15",
+      "role": "QA",
+      "title": "QA Analyst (100% Remoto Argentina)",
+      "company": "Zaelot (vía Get on Board)",
+      "author": "Get on Board Argentina",
+      "postedAt": "2026-11-15 · Get on Board",
+      "location": "Argentina (100% Remoto)",
+      "url": "https://www.getonbrd.com.ar",
+      "contactEmail": "",
+      "outreachMessage": "Hola! Vi la búsqueda de QA Analyst remoto para Argentina en Get on Board y me interesa postularme. Tengo más de 4 años de experiencia en testing manual y funcional de aplicaciones SaaS/web, validación de APIs REST y GraphQL (Postman), diseño de casos de prueba y gestión de defectos en Jira en entornos Agile/Scrum. Adjunto mi CV adaptado al puesto. ¡Saludos! Franco Pietrafesa",
+      "cv": {
+        "headline": "QA Analyst | Manual Testing, REST & GraphQL APIs",
+        "summary": "QA Engineer con 4+ años de experiencia en testing manual de aplicaciones SaaS y web, especializado en validación de APIs REST y GraphQL, planificación de pruebas y seguimiento de defectos en entornos Agile/Scrum.",
+        "highlights": [
+          "Telefónica (Mar 2023 – Actualidad) · QA / Cloud Engineer / BA: Pruebas funcionales, regresión, smoke y exploratorias sobre productos SaaS; validación de APIs REST y GraphQL con Postman.",
+          "TestRigor (Ene 2024 – Oct 2025) · QA Analyst: Testing manual y automatizado en plataformas web/SaaS, validación de queries y mutations GraphQL, documentación y seguimiento en Jira.",
+          "Rappi, S.A. (Mar 2022 – Dic 2022) · QA Analyst: Planificación de pruebas en Scrum, testing funcional/regresión y validación de datos con SQL."
+        ],
+        "stack": "Postman, GraphQL, REST API, Playwright, Cypress, Selenium, TestRigor, Jira, Xray, SQL"
+      }
+    },
+    {
+      "id": "getonbrd-bc-qa-2026-11-15",
+      "role": "QA",
+      "title": "QA Manual / QA Automation Engineer",
+      "company": "BC Tecnología (vía Get on Board)",
+      "author": "Get on Board Argentina",
+      "postedAt": "2026-11-15 · Get on Board",
+      "location": "Remoto Argentina / LATAM",
+      "url": "https://www.getonbrd.com.ar",
+      "contactEmail": "",
+      "outreachMessage": "Hola! Me postulo para la búsqueda de QA Manual / Automation en BC Tecnología. Cuento con 4+ años de experiencia en QA sobre SaaS, validación end-to-end de UI y APIs (REST y GraphQL), además de experiencia con Playwright, Cypress, Selenium y TestRigor. Te comparto mi CV adaptado. ¡Muchas gracias!",
+      "cv": {
+        "headline": "Senior Manual QA Engineer + API & Automation (Playwright / Cypress)",
+        "summary": "QA Engineer con sólida trayectoria en pruebas manuales, end-to-end y validación de APIs REST/GraphQL, con experiencia práctica en herramientas de automatización como Playwright, Cypress, Selenium y TestRigor.",
+        "highlights": [
+          "TestRigor (Ene 2024 – Oct 2025) · QA Analyst: Ejecución de pruebas manuales y automatizadas, validación de APIs REST/GraphQL y participación en sprint planning y release validation.",
+          "Telefónica (Mar 2023 – Actualidad) · QA / Cloud Engineer: Testing end-to-end de flujos complejos (UI, API y backend), análisis de historias de usuario y release readiness.",
+          "NewFold Digital (Dic 2022 – Mar 2023) · QA Tester: Testing cross-browser y cross-device en plataformas CMS SaaS."
+        ],
+        "stack": "Playwright, Cypress, Selenium, TestRigor, Postman, GraphQL, REST API, JavaScript, TypeScript, Jira"
+      }
+    },
+    {
+      "id": "revelo-techsupport-2026-11-15",
+      "role": "Tech Support Specialist",
+      "title": "Remote Technical Support Specialist (Bilingual LATAM)",
+      "company": "Empresas US vía Revelo / Remote Rocketship",
+      "author": "Revelo / Remote Rocketship",
+      "postedAt": "2026-11-15 · Board LATAM",
+      "location": "Remoto LATAM (Inglés C1)",
+      "url": "https://www.revelo.com",
+      "contactEmail": "",
+      "outreachMessage": "Hi! I'm interested in Remote Technical Support Specialist roles for LATAM. I have 4+ years of experience in SaaS troubleshooting, API validation (REST & GraphQL via Postman), server and database maintenance at Telefónica, incident reporting, and observability tools (Splunk, Grafana, Kibana), with Advanced English (C1). Sharing my tailored CV!",
+      "cv": {
+        "headline": "Technical Support Specialist | SaaS, APIs, Servers & Observability",
+        "summary": "Especialista técnico con inglés avanzado (C1) y experiencia en soporte L2/L3 de plataformas SaaS, mantenimiento de servidores y bases de datos, troubleshooting de APIs REST/GraphQL y monitoreo con Splunk, Grafana y Kibana.",
+        "highlights": [
+          "Telefónica (Mar 2023 – Actualidad) · Cloud Engineer / QA: Configuración y mantenimiento de servidores y conexiones a bases de datos; análisis de anomalías y redacción de reportes de incidentes.",
+          "Rappi, S.A. (May 2022 – Ago 2022) · Software Engineer Backend: Mantenimiento de servidores/librerías y lectura de código JavaScript para debugging.",
+          "TestRigor (Ene 2024 – Oct 2025) · QA Analyst: Reproducción documentada de defectos con evidencia técnica en Jira."
+        ],
+        "stack": "Splunk, Grafana, Kibana, Postman, REST/GraphQL, Jira, MySQL, PostgreSQL, MongoDB, Bash, AWS, Azure, GCP"
+      }
+    },
+    {
+      "id": "getonbrd-niuro-cloud-2026-11-15",
+      "role": "Cloud",
+      "title": "Cloud Engineer (Sudamérica / Argentina)",
+      "company": "Niuro / BC Tecnología (vía Get on Board)",
+      "author": "Get on Board Argentina",
+      "postedAt": "2026-11-15 · Get on Board",
+      "location": "Remoto Sudamérica / Argentina",
+      "url": "https://www.getonbrd.com.ar",
+      "contactEmail": "",
+      "outreachMessage": "Hola! Vi las búsquedas de Cloud Engineer para Argentina/Sudamérica en Get on Board. Actualmente me desempeño en Telefónica configurando, desplegando y manteniendo servidores y conexiones de bases de datos para garantizar disponibilidad, además de contar con experiencia en AWS, Azure, GCP, Docker y CI/CD (GitLab CI, Jenkins). Te dejo mi CV adaptado al rol.",
+      "cv": {
+        "headline": "Cloud Engineer | AWS, Azure, GCP, Servers & CI/CD",
+        "summary": "Cloud Engineer / QA con experiencia en configuración, despliegue y mantenimiento de servidores y bases de datos en producción, monitoreo de disponibilidad y pipelines CI/CD en entornos cloud.",
+        "highlights": [
+          "Telefónica (Mar 2023 – Actualidad) · Cloud Engineer / Business Analyst / QA: Despliegue y mantenimiento de servidores y bases de datos; soporte de release readiness y análisis de anomalías.",
+          "Rappi, S.A. (May 2022 – Ago 2022) · Software Engineer Backend: Automatización de tareas de desarrollo y gestión de librerías de servidor.",
+          "Formación: Ingeniería en Computación (UNTREF) + Diplomatura en Python (Univ. Tecnológica de Michigan)."
+        ],
+        "stack": "AWS, Azure, GCP, Docker, GitLab CI, Jenkins, Bash, Python, PostgreSQL, MySQL, Redis, Grafana, Splunk"
+      }
+    },
+    {
+      "id": "getonbrd-crost-devops-2026-11-15",
+      "role": "DevOps",
+      "title": "DevOps & Infrastructure Engineer (Remoto)",
+      "company": "Crost AI / BC Tecnología (vía Get on Board)",
+      "author": "Get on Board Argentina",
+      "postedAt": "2026-11-15 · Get on Board",
+      "location": "Remoto LATAM / Argentina",
+      "url": "https://www.getonbrd.com.ar",
+      "contactEmail": "",
+      "outreachMessage": "Hola! Me interesa postularme para roles de DevOps / Infrastructure Engineer remoto. Cuento con experiencia en despliegue y mantenimiento de servidores y bases de datos en Telefónica, automatización con Python y Bash, Docker, GitLab CI, Jenkins y monitoreo con Grafana, Splunk y Kibana. Adjunto mi CV adaptado.",
+      "cv": {
+        "headline": "DevOps & Cloud Engineer | CI/CD, Docker, Python & Observability",
+        "summary": "Ingeniero enfocado en infraestructura, automatización y calidad de entregas continuas, con experiencia práctica en despliegue de servidores, bases de datos, Docker, GitLab CI, Jenkins y observabilidad.",
+        "highlights": [
+          "Telefónica (Mar 2023 – Actualidad) · Cloud Engineer / QA: Configuración y mantenimiento de servidores y bases de datos, validación de despliegues y análisis de incidentes.",
+          "Rappi, S.A. (May 2022 – Ago 2022) · Software Engineer Backend: Automatización de tareas de desarrollo y administración de librerías de servidor.",
+          "Stack de observabilidad y datos: Splunk, Grafana, Kibana, MySQL, PostgreSQL, MongoDB, Redis."
+        ],
+        "stack": "GitLab CI, Jenkins, Docker, AWS, Azure, GCP, Bash, Python, Splunk, Grafana, Kibana, PostgreSQL"
+      }
+    }
+  ]
+}
