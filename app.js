@@ -120,7 +120,7 @@ function saveStatuses() {
 }
 
 function getJobStatus(job) {
-  return state.statuses[job.id] || "pending";
+  return state.statuses[job.id] || job.status || "pending";
 }
 
 function setJobStatus(jobId, status) {
