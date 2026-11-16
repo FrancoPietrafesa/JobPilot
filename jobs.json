@@ -10,6 +10,7 @@
   "jobs": [
     {
       "id": "caylent-qa-2026-11-16",
+      "status": "sent",
       "role": "QA",
       "title": "Senior QA Engineer (Remote Argentina)",
       "company": "Caylent",
@@ -98,6 +99,7 @@
     },
     {
       "id": "trueml-devops-2026-11-16",
+      "status": "sent",
       "role": "DevOps",
       "title": "Junior-to-Mid DevOps Engineer (Remote Argentina)",
       "company": "TrueML (TrueAccord)",
