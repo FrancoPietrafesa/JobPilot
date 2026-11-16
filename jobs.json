@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15",
+  "generatedAt": "2026-11-16",
   "candidate": {
     "name": "Franco Pietrafesa",
     "email": "francopietra01@gmail.com",
@@ -9,113 +9,135 @@
   },
   "jobs": [
     {
-      "id": "getonbrd-zaelot-qa-2026-11-15",
+      "id": "caylent-qa-2026-11-16",
       "role": "QA",
-      "title": "QA Analyst (100% Remoto Argentina)",
-      "company": "Zaelot (vía Get on Board)",
-      "author": "Get on Board Argentina",
-      "postedAt": "2026-11-15 · Get on Board",
-      "location": "Argentina (100% Remoto)",
-      "url": "https://www.getonbrd.com.ar",
-      "contactEmail": "",
-      "outreachMessage": "Hola! Vi la búsqueda de QA Analyst remoto para Argentina en Get on Board y me interesa postularme. Tengo más de 4 años de experiencia en testing manual y funcional de aplicaciones SaaS/web, validación de APIs REST y GraphQL (Postman), diseño de casos de prueba y gestión de defectos en Jira en entornos Agile/Scrum. Adjunto mi CV adaptado al puesto. ¡Saludos! Franco Pietrafesa",
+      "title": "Senior QA Engineer (Remote Argentina)",
+      "company": "Caylent",
+      "author": "Caylent Talent",
+      "postedAt": "2026-11-16 · Enriquecido (careers + email)",
+      "location": "Remoto Argentina",
+      "url": "https://caylent.com/careers",
+      "contactEmail": "talent@caylent.com",
+      "outreachMessage": "Hi Caylent Talent team! I'm a QA Engineer based in Buenos Aires, Argentina with 4+ years of experience testing SaaS and web platforms, validating REST and GraphQL APIs (Postman), and working on cloud-based services at Telefónica alongside Playwright, Cypress, Selenium, and TestRigor. I'd love to be considered for remote QA Engineer openings in Argentina. Attaching my tailored CV. Best regards, Franco Pietrafesa",
       "cv": {
-        "headline": "QA Analyst | Manual Testing, REST & GraphQL APIs",
-        "summary": "QA Engineer con 4+ años de experiencia en testing manual de aplicaciones SaaS y web, especializado en validación de APIs REST y GraphQL, planificación de pruebas y seguimiento de defectos en entornos Agile/Scrum.",
+        "headline": "Senior Manual QA Engineer | REST & GraphQL APIs | Cloud & Automation",
+        "summary": "QA Engineer with 4+ years of experience in SaaS and web-based application testing, strong expertise in API validation (REST and GraphQL), end-to-end workflows, and cloud-hosted services in Agile/Scrum teams.",
         "highlights": [
-          "Telefónica (Mar 2023 – Actualidad) · QA / Cloud Engineer / BA: Pruebas funcionales, regresión, smoke y exploratorias sobre productos SaaS; validación de APIs REST y GraphQL con Postman.",
-          "TestRigor (Ene 2024 – Oct 2025) · QA Analyst: Testing manual y automatizado en plataformas web/SaaS, validación de queries y mutations GraphQL, documentación y seguimiento en Jira.",
-          "Rappi, S.A. (Mar 2022 – Dic 2022) · QA Analyst: Planificación de pruebas en Scrum, testing funcional/regresión y validación de datos con SQL."
+          "Telefónica (Mar 2023 – Present) · Cloud Engineer / Business Analyst / QA: Functional, regression, smoke, and exploratory testing across SaaS products; REST/GraphQL API validation; server & database maintenance.",
+          "TestRigor (Jan 2024 – Oct 2025) · QA Analyst: Manual and automated QA on SaaS platforms, GraphQL queries/mutations validation, structured defect tracking in Jira.",
+          "Rappi, S.A. (Mar 2022 – Dec 2022) · QA Analyst: Functional/regression testing in Agile/Scrum and SQL backend data validation."
         ],
-        "stack": "Postman, GraphQL, REST API, Playwright, Cypress, Selenium, TestRigor, Jira, Xray, SQL"
+        "stack": "Playwright, Cypress, Selenium, TestRigor, Postman, GraphQL, REST API, AWS, Azure, GCP, Jira, SQL"
       }
     },
     {
-      "id": "getonbrd-bc-qa-2026-11-15",
-      "role": "QA",
-      "title": "QA Manual / QA Automation Engineer",
-      "company": "BC Tecnología (vía Get on Board)",
-      "author": "Get on Board Argentina",
-      "postedAt": "2026-11-15 · Get on Board",
-      "location": "Remoto Argentina / LATAM",
-      "url": "https://www.getonbrd.com.ar",
-      "contactEmail": "",
-      "outreachMessage": "Hola! Me postulo para la búsqueda de QA Manual / Automation en BC Tecnología. Cuento con 4+ años de experiencia en QA sobre SaaS, validación end-to-end de UI y APIs (REST y GraphQL), además de experiencia con Playwright, Cypress, Selenium y TestRigor. Te comparto mi CV adaptado. ¡Muchas gracias!",
-      "cv": {
-        "headline": "Senior Manual QA Engineer + API & Automation (Playwright / Cypress)",
-        "summary": "QA Engineer con sólida trayectoria en pruebas manuales, end-to-end y validación de APIs REST/GraphQL, con experiencia práctica en herramientas de automatización como Playwright, Cypress, Selenium y TestRigor.",
-        "highlights": [
-          "TestRigor (Ene 2024 – Oct 2025) · QA Analyst: Ejecución de pruebas manuales y automatizadas, validación de APIs REST/GraphQL y participación en sprint planning y release validation.",
-          "Telefónica (Mar 2023 – Actualidad) · QA / Cloud Engineer: Testing end-to-end de flujos complejos (UI, API y backend), análisis de historias de usuario y release readiness.",
-          "NewFold Digital (Dic 2022 – Mar 2023) · QA Tester: Testing cross-browser y cross-device en plataformas CMS SaaS."
-        ],
-        "stack": "Playwright, Cypress, Selenium, TestRigor, Postman, GraphQL, REST API, JavaScript, TypeScript, Jira"
-      }
-    },
-    {
-      "id": "revelo-techsupport-2026-11-15",
+      "id": "donweb-support-2026-11-16",
       "role": "Tech Support Specialist",
-      "title": "Remote Technical Support Specialist (Bilingual LATAM)",
-      "company": "Empresas US vía Revelo / Remote Rocketship",
-      "author": "Revelo / Remote Rocketship",
-      "postedAt": "2026-11-15 · Board LATAM",
-      "location": "Remoto LATAM (Inglés C1)",
-      "url": "https://www.revelo.com",
+      "title": "Cloud Support Engineer / Soporte Técnico",
+      "company": "DonWeb Cloud",
+      "author": "DonWeb Carreras",
+      "postedAt": "2026-11-16 · Portal directo",
+      "location": "Argentina (Remoto)",
+      "url": "https://donweb.com/es/trabajar-en-donweb",
       "contactEmail": "",
-      "outreachMessage": "Hi! I'm interested in Remote Technical Support Specialist roles for LATAM. I have 4+ years of experience in SaaS troubleshooting, API validation (REST & GraphQL via Postman), server and database maintenance at Telefónica, incident reporting, and observability tools (Splunk, Grafana, Kibana), with Advanced English (C1). Sharing my tailored CV!",
+      "outreachMessage": "Hola equipo de DonWeb! Me interesa postularme para posiciones de Cloud Support / Soporte Técnico. En Telefónica configuro, despliego y mantengo servidores y conexiones de bases de datos para asegurar disponibilidad de servicio, además de analizar anomalías productivas, redactar reportes de incidentes y validar APIs REST/GraphQL con Postman, Splunk, Grafana y Kibana. Les comparto mi CV adaptado.",
       "cv": {
-        "headline": "Technical Support Specialist | SaaS, APIs, Servers & Observability",
-        "summary": "Especialista técnico con inglés avanzado (C1) y experiencia en soporte L2/L3 de plataformas SaaS, mantenimiento de servidores y bases de datos, troubleshooting de APIs REST/GraphQL y monitoreo con Splunk, Grafana y Kibana.",
+        "headline": "Cloud & Technical Support Specialist | Servers, DBs & Observability",
+        "summary": "Especialista técnico con experiencia en configuración y mantenimiento de servidores y bases de datos, análisis de anomalías en producción, reportes de incidentes y troubleshooting de APIs REST/GraphQL.",
         "highlights": [
-          "Telefónica (Mar 2023 – Actualidad) · Cloud Engineer / QA: Configuración y mantenimiento de servidores y conexiones a bases de datos; análisis de anomalías y redacción de reportes de incidentes.",
-          "Rappi, S.A. (May 2022 – Ago 2022) · Software Engineer Backend: Mantenimiento de servidores/librerías y lectura de código JavaScript para debugging.",
-          "TestRigor (Ene 2024 – Oct 2025) · QA Analyst: Reproducción documentada de defectos con evidencia técnica en Jira."
+          "Telefónica (Mar 2023 – Actualidad) · Cloud Engineer / QA: Configuración, despliegue y mantenimiento de servidores y conexiones de bases de datos; análisis de anomalías y reportes de incidentes.",
+          "Rappi, S.A. (May 2022 – Ago 2022) · Software Engineer Backend: Mantenimiento de servidores/librerías y debugging en JavaScript.",
+          "TestRigor (Ene 2024 – Oct 2025) · QA Analyst: Reproducción documentada de fallos con evidencia técnica en Jira."
         ],
-        "stack": "Splunk, Grafana, Kibana, Postman, REST/GraphQL, Jira, MySQL, PostgreSQL, MongoDB, Bash, AWS, Azure, GCP"
+        "stack": "Splunk, Grafana, Kibana, Postman, REST/GraphQL, MySQL, PostgreSQL, MongoDB, Redis, Bash, AWS, Azure, GCP"
       }
     },
     {
-      "id": "getonbrd-niuro-cloud-2026-11-15",
+      "id": "stefanini-support-2026-11-16",
+      "role": "Tech Support Specialist",
+      "title": "Technical Support Specialist (Remoto Argentina/LATAM)",
+      "company": "Stefanini LATAM",
+      "author": "Stefanini Carreras",
+      "postedAt": "2026-11-16 · Portal directo",
+      "location": "Argentina / LATAM (Remoto)",
+      "url": "https://stefanini.com/es/carreras",
+      "contactEmail": "",
+      "outreachMessage": "Hola equipo de Selección de Stefanini! Cuento con más de 4 años de experiencia en soporte técnico y QA sobre aplicaciones SaaS, validación de APIs REST/GraphQL, bases de datos SQL/NoSQL y monitoreo con Splunk, Grafana y Kibana, además de inglés avanzado (C1). Adjunto mi CV adaptado para oportunidades de Technical Support Specialist en Argentina/LATAM.",
+      "cv": {
+        "headline": "Technical Support Specialist | Bilingual (ES/EN C1) | SaaS & APIs",
+        "summary": "Especialista en soporte técnico y aseguramiento de calidad con inglés avanzado (C1), experiencia en plataformas SaaS, gestión de tickets en Jira, consultas SQL y diagnóstico de APIs REST/GraphQL.",
+        "highlights": [
+          "Telefónica (Mar 2023 – Actualidad) · Cloud Engineer / Business Analyst / QA: Análisis de incidentes, soporte a despliegues y mantenimiento de servidores/BD.",
+          "Rappi, S.A. (Mar 2022 – Dic 2022) · QA Analyst: Verificación de backend con SQL y seguimiento de defectos en Jira.",
+          "NewFold Digital (Dic 2022 – Mar 2023) · QA Tester: Soporte y pruebas sobre plataformas CMS (WordPress)."
+        ],
+        "stack": "Jira, Confluence, Postman, REST/GraphQL, MySQL, PostgreSQL, Splunk, Grafana, Kibana, Bash"
+      }
+    },
+    {
+      "id": "jobsity-cloud-2026-11-16",
       "role": "Cloud",
-      "title": "Cloud Engineer (Sudamérica / Argentina)",
-      "company": "Niuro / BC Tecnología (vía Get on Board)",
-      "author": "Get on Board Argentina",
-      "postedAt": "2026-11-15 · Get on Board",
-      "location": "Remoto Sudamérica / Argentina",
-      "url": "https://www.getonbrd.com.ar",
+      "title": "Cloud Engineer (Nearshore Argentina / LATAM)",
+      "company": "Jobsity",
+      "author": "Jobsity Careers",
+      "postedAt": "2026-11-16 · Portal directo",
+      "location": "Remoto Argentina / LATAM",
+      "url": "https://www.jobsity.com",
       "contactEmail": "",
-      "outreachMessage": "Hola! Vi las búsquedas de Cloud Engineer para Argentina/Sudamérica en Get on Board. Actualmente me desempeño en Telefónica configurando, desplegando y manteniendo servidores y conexiones de bases de datos para garantizar disponibilidad, además de contar con experiencia en AWS, Azure, GCP, Docker y CI/CD (GitLab CI, Jenkins). Te dejo mi CV adaptado al rol.",
+      "outreachMessage": "Hi Jobsity team! I'm based in Buenos Aires with hands-on experience at Telefónica configuring, deploying, and maintaining servers and database connections to ensure service availability, plus experience with AWS, Azure, GCP, Docker, GitLab CI, Jenkins, and Python/Bash. I'd love to be considered for remote Cloud Engineer roles in Argentina.",
       "cv": {
-        "headline": "Cloud Engineer | AWS, Azure, GCP, Servers & CI/CD",
-        "summary": "Cloud Engineer / QA con experiencia en configuración, despliegue y mantenimiento de servidores y bases de datos en producción, monitoreo de disponibilidad y pipelines CI/CD en entornos cloud.",
+        "headline": "Cloud Engineer | AWS, Azure, GCP, Docker & CI/CD",
+        "summary": "Cloud Engineer / QA with hands-on experience deploying and maintaining servers and database connections, supporting release readiness, and working with AWS, Azure, GCP, Docker, and CI/CD pipelines.",
         "highlights": [
-          "Telefónica (Mar 2023 – Actualidad) · Cloud Engineer / Business Analyst / QA: Despliegue y mantenimiento de servidores y bases de datos; soporte de release readiness y análisis de anomalías.",
-          "Rappi, S.A. (May 2022 – Ago 2022) · Software Engineer Backend: Automatización de tareas de desarrollo y gestión de librerías de servidor.",
-          "Formación: Ingeniería en Computación (UNTREF) + Diplomatura en Python (Univ. Tecnológica de Michigan)."
+          "Telefónica (Mar 2023 – Present) · Cloud Engineer / QA: Server and database deployment/maintenance, release readiness validation, and incident reporting.",
+          "Rappi, S.A. (May 2022 – Aug 2022) · Software Engineer Backend: Task automation and server library management.",
+          "Education: Computer Engineering (UNTREF) + Diploma in Python (Univ. of Michigan)."
         ],
-        "stack": "AWS, Azure, GCP, Docker, GitLab CI, Jenkins, Bash, Python, PostgreSQL, MySQL, Redis, Grafana, Splunk"
+        "stack": "AWS, Azure, GCP, Docker, GitLab CI, Jenkins, Python, Bash, PostgreSQL, MySQL, Redis, Grafana, Splunk"
       }
     },
     {
-      "id": "getonbrd-crost-devops-2026-11-15",
+      "id": "trueml-devops-2026-11-16",
       "role": "DevOps",
-      "title": "DevOps & Infrastructure Engineer (Remoto)",
-      "company": "Crost AI / BC Tecnología (vía Get on Board)",
-      "author": "Get on Board Argentina",
-      "postedAt": "2026-11-15 · Get on Board",
-      "location": "Remoto LATAM / Argentina",
-      "url": "https://www.getonbrd.com.ar",
-      "contactEmail": "",
-      "outreachMessage": "Hola! Me interesa postularme para roles de DevOps / Infrastructure Engineer remoto. Cuento con experiencia en despliegue y mantenimiento de servidores y bases de datos en Telefónica, automatización con Python y Bash, Docker, GitLab CI, Jenkins y monitoreo con Grafana, Splunk y Kibana. Adjunto mi CV adaptado.",
+      "title": "Junior-to-Mid DevOps Engineer (Remote Argentina)",
+      "company": "TrueML (TrueAccord)",
+      "author": "TrueML Recruiting",
+      "postedAt": "2026-11-16 · Enriquecido (email)",
+      "location": "Remoto Argentina",
+      "url": "https://www.workingnomads.com",
+      "contactEmail": "recruiting@trueaccord.com",
+      "outreachMessage": "Hi TrueML Recruiting team! I'm a Cloud & QA Engineer in Argentina with practical experience deploying and maintaining servers and database connections at Telefónica, automating backend tasks in Python/Bash, and working with Docker, GitLab CI, Jenkins, AWS/GCP/Azure, and observability tools (Grafana, Splunk, Kibana). Attaching my tailored CV for DevOps openings in Argentina.",
       "cv": {
         "headline": "DevOps & Cloud Engineer | CI/CD, Docker, Python & Observability",
-        "summary": "Ingeniero enfocado en infraestructura, automatización y calidad de entregas continuas, con experiencia práctica en despliegue de servidores, bases de datos, Docker, GitLab CI, Jenkins y observabilidad.",
+        "summary": "Engineer with experience in server & database operations, release readiness, CI/CD pipelines (GitLab CI, Jenkins), containerization (Docker), and observability (Splunk, Grafana, Kibana).",
         "highlights": [
-          "Telefónica (Mar 2023 – Actualidad) · Cloud Engineer / QA: Configuración y mantenimiento de servidores y bases de datos, validación de despliegues y análisis de incidentes.",
-          "Rappi, S.A. (May 2022 – Ago 2022) · Software Engineer Backend: Automatización de tareas de desarrollo y administración de librerías de servidor.",
-          "Stack de observabilidad y datos: Splunk, Grafana, Kibana, MySQL, PostgreSQL, MongoDB, Redis."
+          "Telefónica (Mar 2023 – Present) · Cloud Engineer / QA: Server/DB deployment and maintenance, anomaly analysis, and release readiness.",
+          "Rappi, S.A. (May 2022 – Aug 2022) · Software Engineer Backend: Automated software development tasks and managed server libraries.",
+          "Education: Computer Engineering (UNTREF) + Diploma in Python (Univ. of Michigan) + Advanced English (C1)."
         ],
-        "stack": "GitLab CI, Jenkins, Docker, AWS, Azure, GCP, Bash, Python, Splunk, Grafana, Kibana, PostgreSQL"
+        "stack": "GitLab CI, Jenkins, Docker, AWS, Azure, GCP, Python, Bash, Splunk, Grafana, Kibana, PostgreSQL"
+      }
+    },
+    {
+      "id": "wizeline-devops-2026-11-16",
+      "role": "DevOps",
+      "title": "AWS DevOps / Platform Engineer (Remote Argentina)",
+      "company": "Wizeline",
+      "author": "Wizeline Careers",
+      "postedAt": "2026-11-16 · Portal directo",
+      "location": "Remoto Argentina",
+      "url": "https://www.wizeline.ai",
+      "contactEmail": "",
+      "outreachMessage": "Hi Wizeline team! I'm based in Buenos Aires with experience in cloud infrastructure operations, server/DB deployment at Telefónica, Docker, GitLab CI, Jenkins, AWS/Azure/GCP, and Python/Bash automation, plus Advanced English (C1). Sharing my tailored CV for DevOps / Platform opportunities in Argentina.",
+      "cv": {
+        "headline": "Cloud & DevOps Engineer | AWS, Docker, CI/CD & Observability",
+        "summary": "Cloud & QA Engineer experienced in server/database maintenance, release validation, CI/CD automation (GitLab CI, Jenkins), Docker, and monitoring with Splunk, Grafana, and Kibana.",
+        "highlights": [
+          "Telefónica (Mar 2023 – Present) · Cloud Engineer / QA: Configured, deployed, and maintained servers and database connections to ensure service availability.",
+          "Rappi, S.A. (May 2022 – Aug 2022) · Software Engineer Backend: Server library management and automation.",
+          "TestRigor (Jan 2024 – Oct 2025) · QA Analyst: Cross-functional Agile release validation."
+        ],
+        "stack": "AWS, Azure, GCP, Docker, GitLab CI, Jenkins, Python, Bash, Splunk, Grafana, Kibana"
       }
     }
   ]
