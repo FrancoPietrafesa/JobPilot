@@ -519,12 +519,20 @@ document.getElementById("jsonFileInput").addEventListener("change", async (e) =>
   }
 });
 
-document.getElementById("resetDemoBtn").addEventListener("click", () => {
-  localStorage.removeItem(STORAGE_KEY_DATA);
-  state.dataset = DEMO_DATA;
-  state.selectedId = DEMO_DATA.jobs[0]?.id || null;
-  render();
-  showToast("Datos de ejemplo restaurados");
-});
+async function loadRemoteJobsJson() {
+  try {
+    const res = await fetch(`./jobs.json?t=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) return;
+    const parsed = await res.json();
+    if (!Array.isArray(parsed.jobs)) return;
+    state.dataset = parsed;
+    state.selectedId = parsed.jobs[0]?.id || null;
+    localStorage.setItem(STORAGE_KEY_DATA, JSON.stringify(parsed));
+    render();
+  } catch {
+    // Ignore when opened via file:// or before jobs.json exists
+  }
+}
 
 render();
+loadRemoteJobsJson();
