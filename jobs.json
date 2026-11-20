@@ -40,7 +40,6 @@
                      "postedAt":  "2026-11-20 · Portal directo",
                      "location":  "Remoto LATAM / Argentina",
                      "url":  "https://zipdev.com/careers",
-                     "contactEmail":  "",
                      "outreachMessage":  "Hi Zipdev team! I\u0027m a QA Engineer in Argentina with 4+ years of experience in SaaS/web testing, API validation (REST \u0026 GraphQL via Postman), and Agile release validation alongside Playwright, Cypress, Selenium, and TestRigor, plus Advanced English (C1). Sharing my tailored CV for remote QA roles.",
                      "cv":  {
                                 "headline":  "QA Engineer | SaaS, REST/GraphQL APIs \u0026 Test Automation",
@@ -51,7 +50,9 @@
                                                    "NewFold Digital (Dec 2022 – Mar 2023) · QA Tester: Cross-browser and cross-device testing on SaaS CMS platforms."
                                                ],
                                 "stack":  "Playwright, Cypress, Selenium, TestRigor, Postman, GraphQL, REST API, JavaScript, TypeScript, Jira"
-                            }
+                            },
+                     "contactEmail":  "hello@zipdev.com",
+                     "status":  "sent"
                  },
                  {
                      "id":  "supportyourapp-support-2026-11-20",
@@ -85,7 +86,6 @@
                      "postedAt":  "2026-11-20 · Portal directo",
                      "location":  "100% Remoto Argentina",
                      "url":  "https://5ca.com/careers/",
-                     "contactEmail":  "",
                      "outreachMessage":  "Hi 5CA team! I\u0027m based in Buenos Aires with Advanced English (C1) and 4+ years of technical troubleshooting and QA experience across web/SaaS platforms, Jira ticketing, API diagnostics, and incident documentation. I\u0027d love to apply for remote technical support openings in Argentina.",
                      "cv":  {
                                 "headline":  "Technical Support Specialist | Bilingual (ES/EN C1) | SaaS \u0026 Diagnostics",
@@ -96,7 +96,8 @@
                                                    "TestRigor (Jan 2024 – Oct 2025) · QA Analyst: Structured technical documentation and Jira issue tracking."
                                                ],
                                 "stack":  "Jira, Confluence, Postman, REST/GraphQL, Splunk, Grafana, Kibana, HTML, CSS, JavaScript, SQL"
-                            }
+                            },
+                     "contactEmail":  ""
                  },
                  {
                      "id":  "cloudbeds-cloud-2026-11-20",
@@ -107,7 +108,6 @@
                      "postedAt":  "2026-11-20 · Portal directo",
                      "location":  "Remoto LATAM / Argentina",
                      "url":  "https://www.cloudbeds.com/careers/",
-                     "contactEmail":  "",
                      "outreachMessage":  "Hi Cloudbeds team! I\u0027m based in Buenos Aires with hands-on experience at Telefónica configuring, deploying, and maintaining servers and database connections for SaaS availability, plus experience with AWS, Azure, GCP, Docker, GitLab CI, Jenkins, and observability tools (Splunk, Grafana, Kibana). Sharing my tailored CV!",
                      "cv":  {
                                 "headline":  "Cloud \u0026 Infrastructure Engineer | AWS, Azure, GCP, Docker \u0026 SaaS",
@@ -118,7 +118,8 @@
                                                    "Education: Computer Engineering (UNTREF) + Diploma in Python (Univ. of Michigan)."
                                                ],
                                 "stack":  "AWS, Azure, GCP, Docker, GitLab CI, Jenkins, Python, Bash, MySQL, PostgreSQL, Redis, Splunk, Grafana, Kibana"
-                            }
+                            },
+                     "contactEmail":  ""
                  },
                  {
                      "id":  "prometeo-devops-2026-11-20",
@@ -129,7 +130,6 @@
                      "postedAt":  "2026-11-20 · Portal directo",
                      "location":  "Buenos Aires / Remoto LATAM",
                      "url":  "https://prometeotalent.com/",
-                     "contactEmail":  "",
                      "outreachMessage":  "Hola equipo de Prometeo Talent! Soy Cloud / QA Engineer en Buenos Aires con experiencia práctica en Telefónica desplegando y manteniendo servidores y bases de datos, automatización con Python y Bash, Docker, GitLab CI, Jenkins, AWS/Azure/GCP y monitoreo con Grafana, Splunk y Kibana. Les comparto mi CV adaptado para posiciones de DevOps / Infraestructura.",
                      "cv":  {
                                 "headline":  "DevOps \u0026 IT Infrastructure Engineer | CI/CD, Docker, Cloud \u0026 Python",
@@ -140,7 +140,9 @@
                                                    "Stack de observabilidad y datos: Splunk, Grafana, Kibana, MySQL, PostgreSQL, MongoDB, Redis."
                                                ],
                                 "stack":  "GitLab CI, Jenkins, Docker, AWS, Azure, GCP, Python, Bash, Splunk, Grafana, Kibana, PostgreSQL"
-                            }
+                            },
+                     "contactEmail":  "lorena.p@prometeotalent.com",
+                     "status":  "sent"
                  }
              ]
 }
